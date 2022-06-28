@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, welcome to my Github👋
+My name is Ameer Alaswad. I am a full stack/Frontend Developer
 <!--
 **Ameer-Alaswad/Ameer-Alaswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
