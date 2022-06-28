@@ -1,5 +1,8 @@
 ### Hi there, welcome to my Github👋
-My name is Ameer Alaswad. I am a full stack/Frontend Developer
+My name is Ameer Alaswad. I am a Full Stack/Frontend Developer.
+
+You are welcome to browse my Project! and if you want to know more about me here are some links to help you with this:
+Portfolio: [arbitrary case-insensitive reference text]: https://ameer-alaswad.netlify.app/
 <!--
 **Ameer-Alaswad/Ameer-Alaswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
