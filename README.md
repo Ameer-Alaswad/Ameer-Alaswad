@@ -1,5 +1,5 @@
 ### Hi there, welcome to my Github👋
-My name is Ameer Alaswad. I am a Full Stack/Frontend Developer.
+My name is Ameer Alaswad. I am a Frontend Developer.
 
 You are welcome to browse my Projects! and if you want to know more about me here are some links to help you with that:
 
